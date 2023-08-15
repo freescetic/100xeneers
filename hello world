@@ -1,2 +1,6 @@
 // the hello world program
 console.log('Hello World');
+// other ways to print
+alert('Hello World');
+// another way to print
+document.write('Hello World');
